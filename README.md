@@ -5,4 +5,4 @@ The classic pong game developed in Java.
 
 Use W and S for up and down for the first player.
 
-Use Arrow UP and Arrow DOWN for the secondo player.
+Use Arrow UP and Arrow DOWN for the second player.
